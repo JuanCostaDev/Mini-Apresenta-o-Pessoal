@@ -1,4 +1,4 @@
-# Sobre mim
+# Página de apresentação pessoal
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/JuanCostaDev/Mini-Apresenta-o-Pessoal/blob/main/LICENCE) 
 
