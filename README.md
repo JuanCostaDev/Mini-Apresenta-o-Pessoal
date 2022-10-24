@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-https://juancostadev.github.io/Mini-Apresenta-o-Pessoal/
+https://juancostadev.github.io/Pequena-Apresentacao-Pessoal/
 
 Uma pequena página de apresentação que eu utilizei para praticar meus conhecimentos em HTML, CSS E JavaScript. A mesma posssui uma aba com uma explicação sobre mim
 e uma segunda aba com links para canais de contato.
